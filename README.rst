@@ -2,6 +2,8 @@
 Spectral
 ===============================
 
+**This package is deprecated and is no more maintained, please use shennong instead: https://github.com/bootphon/shennong**
+
 Python package for extracing Mel and MFCC features from speech.
 
 * Free software: BSD license
